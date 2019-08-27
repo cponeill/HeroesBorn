@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{882409E3-3BDC-5B0C-1E8C-FD0D2DDD52B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LearningCurves.cs" Line="27" Column="49" />
+      <File FileName="Assets/Scripts/Character.cs" />
+      <File FileName="Assets/Scripts/Paladin.cs" />
+      <File FileName="Assets/Scripts/PlayerBehavior.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Heroes" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerBehavior.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e32896b8-38df-4e6e-8b11-0266512e7061" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
